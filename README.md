@@ -1,2 +1,2 @@
 # MonteCarlo
-Some Monte Carlo Simulation
+Some Monte Carlo Simulations
